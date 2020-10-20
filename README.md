@@ -1,3 +1,3 @@
 # HTML
 # CSS
-# JavaScript
+# 생활코딩
